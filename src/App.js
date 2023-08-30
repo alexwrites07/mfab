@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from "react";
 import Header from "./components/Common/Header/Header";
 import Footer from "./components/Common/Footer/Footer";
-import GetinTouchWithUs from "./components/Contact/GetinTouchWithUs/GetinTouchWithUs";
-import ContactForm from "./components/Contact/Contact_form/Contact_form";
-import Contact from './components/Contact/Contact'
+import GetinTouchWithUs from "./components/contact/GetinTouchWithUs/GetinTouchWithUs";
+import ContactForm from "./components/contact/Contact_form/Contact_form";
+import Contact from './components/contact/Contact'
 import AboutUs from "./components/AboutUs/AboutUs";
 import Applications from './components/Applications/Applications'
 import Article from './components/Articles/Article'
